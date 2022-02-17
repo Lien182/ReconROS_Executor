@@ -1,6 +1,6 @@
 # ReconROS_Executor
 
-The ReconROS Executor extends the concept of the standard ROS 2 multi-threaded executor for hardware callbacks execution. This code comprise the example application from [1].
+The ReconROS Executor extends the concept of the standard ROS 2 multi-threaded executor for hardware callbacks execution. This code comprises the example application from [1].
 
 
 ## Publications
